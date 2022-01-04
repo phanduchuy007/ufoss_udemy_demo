@@ -1,0 +1,1 @@
+Go to "https://chakra-ui.com/docs/theming/customize-theme" for understanding
